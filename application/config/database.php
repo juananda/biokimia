@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => '',
-	'database' => 'biokimia',
+	'hostname' => 'mysql.hostinger.co.id',
+	'username' => 'u664670096_croco',
+	'password' => 'AwNfMP6uOQ3a',
+	'database' => 'u664670096_mydbs',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
