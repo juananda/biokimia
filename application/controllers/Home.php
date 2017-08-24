@@ -16,12 +16,12 @@ Class Home extends CI_Controller {
 	public function article(){
 		$this->load->library('image_lib');
 		$this->load->helper('url');
-		$this->load->view('Article');
+		$this->load->view('article');
 	}
 
 	public function menu(){
 		$this->load->helper('url');
-		$this->load->view('Home');
+		$this->load->view('home');
 	}
 
 
